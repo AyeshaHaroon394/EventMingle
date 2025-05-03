@@ -1,4 +1,4 @@
 package com.example.eventmingle.service;
 
-public class DatabaseHelper {
+public class UserHelper {
 }
